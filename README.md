@@ -22,6 +22,11 @@ Diagram Blok dan Perancangan Elektronik
 
 ![image](https://github.com/user-attachments/assets/05413d43-7b00-4525-9936-e5c4677332d2)
 
+![image](https://github.com/user-attachments/assets/f676c87e-8a48-4ffc-8341-1fd6a5e4ca24)
+
+![image](https://github.com/user-attachments/assets/710d41ba-73e1-4950-ae5f-d76d2e967a91)
+
+
 
 
 
