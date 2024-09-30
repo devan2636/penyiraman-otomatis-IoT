@@ -1,3 +1,14 @@
+//[1] Identitas Pembuat Coding
+/**
+* [Project 2021]
+* 
+* Generate by :
+*           1.Devandri Suherman
+*           Student Research from Electronics Engineering Departement, Bandung State of Polytechnic(1)
+* Notes     : Automatic ON-OFF using Telegram BOT
+* Copyright 2021
+*/
+
 #include <string.h>
 // Device libraries (Arduino ESP32/ESP8266 Cores)
 #include <Arduino.h>
@@ -8,8 +19,8 @@
 #endif
 // Custom libraries
 #include <utlgbotlib.h>
-#define WIFI_SSID "Astronaut"
-#define WIFI_PASS "Astronaut26"
+#define WIFI_SSID "XXXXXX"
+#define WIFI_PASS "XXXXX"
 #define MAX_CONN_FAIL 50
 #define MAX_LENGTH_WIFI_SSID 31
 #define MAX_LENGTH_WIFI_PASS 63
